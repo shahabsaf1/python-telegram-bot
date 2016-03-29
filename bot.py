@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from ut import *
+from utils import *
 
 TOKEN = 'your token'
 
