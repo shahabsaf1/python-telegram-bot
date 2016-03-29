@@ -4,7 +4,7 @@ from utils import *
 TOKEN = 'your token'
 
 
-bot = telebot.TeleBot("TOKEN")
+bot = telebot.TeleBot(TOKEN)
 
 
 #https://github.com/SEEDTEAM/jack-telegram-bot/blob/master/plugins/linkshortener.moon :D
